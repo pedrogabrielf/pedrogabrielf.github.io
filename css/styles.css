@@ -124,7 +124,7 @@ box-sizing: border-box;
 }
 
 #tittle {
-    font-size: 30px;
+    font-size: 50px;
     margin-bottom: 15px;
     font-weight: bold;
 }
@@ -135,15 +135,15 @@ box-sizing: border-box;
 
 #btn-projects {
     font-weight: bold;
-    font-size: 16px;
+    font-size: 18px;
     color: var(--main-text-color);
     background-color: var(--main-color);
     border: 2px solid var(--main-color);
     border-radius: 5px;
     text-decoration: none;
     transition: .5s;
-    margin: 25px 0;
-    padding: 12px 10px;
+    margin: 30px 0;
+    padding: 15px 10px;
     width: 150px;
     text-align: center;
     display: flex;
@@ -193,6 +193,15 @@ box-sizing: border-box;
 .skills-box i {
     font-size: 45px;
     margin-right: 10px;
+}
+
+#Loading {
+    font-size: 45px;
+    margin-right: 10px;
+}
+
+#Projects {
+    font-size: 25px;
 }
 
 
