@@ -206,7 +206,7 @@ box-sizing: border-box;
 
 
 /* Mobile */
-@media(max-width: 543px) {
+@media(max-width: 576px) {
 /* div Lado esquerdo */
     #container{
         flex-direction: column;
